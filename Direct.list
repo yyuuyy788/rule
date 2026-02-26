@@ -90,3 +90,14 @@ DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,cmecloud.cn
+
+#其他
+DOMAIN-SUFFIX,leijing1.com
+DOMAIN-SUFFIX,pan1.me
+DOMAIN-SUFFIX,api.qb4f4z.com
+DOMAIN-SUFFIX,gying.net
+DOMAIN-SUFFIX,wsrv.nl
+DOMAIN-SUFFIX,bdjuhe.com
+IP-CIDR,209.141.61.153/32,no-resolve
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,dapi.520040.xyz
