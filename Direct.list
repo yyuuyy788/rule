@@ -105,3 +105,17 @@ DOMAIN-SUFFIX,pic3.yzzyimg.online
 DOMAIN-SUFFIX,img.ffzy888.com
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-SUFFIX,test-ipv6.com
+
+
+#音乐
+DOMAIN-KEYWORD,sollin
+DOMAIN-KEYWORD,music.163.com
+DOMAIN-KEYWORD,music.126.net
+DOMAIN,sd-gl.xinqiucc.com
+DOMAIN,httpdns.music.163.com
+DOMAIN,gateway.icloud.com.cn
+DOMAIN,m801.music.126.net
+DOMAIN-KEYWORD,qq.com
+DOMAIN,music.163.com
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,musicgateway
