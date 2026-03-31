@@ -108,7 +108,7 @@ DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,200036.xyz
 
 #音乐
-DOMAIN-KEYWORD,sollin
+DOMAIN-SUFFIX,sollinplayersoftwarebackendapi.sollin.top
 DOMAIN-KEYWORD,music.163.com
 DOMAIN-KEYWORD,music.126.net
 DOMAIN,sd-gl.xinqiucc.com
@@ -120,5 +120,4 @@ DOMAIN,music.163.com
 DOMAIN-KEYWORD,apple
 DOMAIN-KEYWORD,musicgateway
 DOMAIN-SUFFIX,lc.guoyue2010.top
-#sollin
-DOMAIN-SUFFIX,sollinplayersoftwarebackendapi.sollin.top
+
