@@ -105,13 +105,18 @@ DOMAIN-SUFFIX,pic3.yzzyimg.online
 DOMAIN-SUFFIX,img.ffzy888.com
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-KEYWORD,ipv6
-DOMAIN-SUFFIX,200036.xyz
 DOMAIN-SUFFIX,backloop.dev
 DOMAIN-SUFFIX,img.cartoon18.com
 DOMAIN-SUFFIX,Dm.bbbrb.com
+
+#em
+DOMAIN-SUFFIX,200036.xyz
 DOMAIN-SUFFIX,yusen6.ccwu.cc
 IP-CIDR,51.83.100.187/32,no-resolve
+
+#弹幕
 DOMAIN,api.dandanplay.net
+DOMAIN,api.danmu.icu
 
 #音乐
 DOMAIN-SUFFIX,sollinplayersoftwarebackendapi.sollin.top
