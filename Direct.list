@@ -110,7 +110,7 @@ DOMAIN-SUFFIX,backloop.dev
 DOMAIN-SUFFIX,img.cartoon18.com
 DOMAIN-SUFFIX,Dm.bbbrb.com
 DOMAIN-SUFFIX,yusen6.ccwu.cc
-IP-CIDR,51.83.100.187,no-resolve
+
 
 #音乐
 DOMAIN-SUFFIX,sollinplayersoftwarebackendapi.sollin.top
