@@ -89,7 +89,7 @@ DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
-DOMAIN-SUFFIX,cmecloud.cn
+#DOMAIN-SUFFIX,cmecloud.cn
 
 #其他
 DOMAIN-SUFFIX,leijing1.com
