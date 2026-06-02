@@ -132,8 +132,32 @@ DOMAIN-KEYWORD,musicgateway
 DOMAIN-SUFFIX,lc.guoyue2010.top
 
 #微软
-* microsoft.com
-* live.com
-* windows.com
-* xboxlive.com
-* microsoftstore.com
+*,microsoft.com
+*,live.com
+*,windows.com
+*,xboxlive.com
+*,microsoftstore.com
+
+#瓜子影视
+Domain,images.67c6c7a.com,DIRECT
+Domain,images.jjawa.com,DIRECT
+Domain,www.emw5es6.com,DIRECT
+Domain,apinew.8hpt2duq.com,DIRECT
+Domain,api.1000gxf.com,DIRECT
+Domain,api.ainitpz.com,DIRECT
+Domain,api.5fcgcnn.com,DIRECT
+Domain,api.hpdgjnf.com,DIRECT
+Domain,api.wyw68fg.com,DIRECT
+Domain,api.hpfcqfh.com,DIRECT
+Domain,api.dzjxekd.com,DIRECT
+Domain,api.qxutcee.com,DIRECT
+Domain,api.fkkejucm.com,DIRECT
+Domain,api.sh75d6qk.com,DIRECT
+Domain,api.gq89em.com,DIRECT
+Domain,api.chgjaq4.com,DIRECT
+Domain,api.cbvbqtz.com,DIRECT
+Domain,api.gdj2a3qy.com,DIRECT
+Domain,api.7gmsut2m.com,DIRECT
+Domain,api.4hnovel.com,DIRECT
+Domain-KEYWORD,gzapi.*.com,DIRECT
+Domain-KEYWORD,jk.*.com,DIRECT
