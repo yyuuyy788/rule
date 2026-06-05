@@ -161,3 +161,8 @@ Domain,api.7gmsut2m.com
 Domain,api.4hnovel.com
 Domain-KEYWORD,gzapi.*.com
 Domain-KEYWORD,jk.*.com
+
+#漫画
+Domain,mangaboxs.top
+Domain,img.cartoon18.com
+IP-CIDR,108.162.198.88/32
