@@ -108,6 +108,8 @@ DOMAIN-KEYWORD,ipv6
 DOMAIN-SUFFIX,backloop.dev
 DOMAIN-SUFFIX,img.cartoon18.com
 DOMAIN-SUFFIX,Dm.bbbrb.com
+Domain-suffix,gh-proxy.org
+Domain-suffix,gh-proxy.com
 
 #em
 DOMAIN-SUFFIX,200036.xyz
@@ -240,6 +242,17 @@ Domain-suffix,tibiu.net
 Domain-suffix,komiic.com
 Domain-suffix,mhkami.com
 Domain-suffix,imh99.top
+Domain-suffix,kxkmh.xyz
+Domain-suffix,jmdanjonproxy.xyz
+Domain-suffix,bzmgcn.com
+Domain-suffix,yydsmh.com
+Domain-suffix,aboboy.cc
+Domain-suffix,ycymh.com
+Domain-suffix,bjzf.org
+Domain-suffix,bbboy.cc
+Domain-suffix,mh160mh.com
+Domain-suffix,zanzhui.com
+Domain-suffix,dumanwu1.com
 
 Domain-keyword,manga
 Domain-keyword,manhua
@@ -247,3 +260,4 @@ Domain-keyword,manwa
 Domain-keyword,mhua
 Domain-keyword,hanman
 Domain-keyword,nnhm
+Domain-keyword,jjmh
