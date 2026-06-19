@@ -116,6 +116,7 @@ Domain-suffix,gh-proxy.com
 Domain-suffix,loc567.com
 Domain-suffix,unpkg.com
 IP-CIDR,10.10.1.34/32,no-resolve
+DOMAIN,emby.pivkeyu.de5.net
 
 #em
 DOMAIN-SUFFIX,200036.xyz
