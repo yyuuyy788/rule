@@ -1,7 +1,12 @@
+#DOMAIN-WILDCARD,
+
 DOMAIN-WILDCARD,*.okemby.*
 DOMAIN-WILDCARD,kuai?.?yezi.*
 DOMAIN-WILDCARD,yp.?yezi.*
 DOMAIN-WILDCARD,*.zzm.li
 DOMAIN-WILDCARD,*.pivkeyu.*.net
-Domain-suffix,my.microsoftpersonalcontent.com
 DOMAIN-WILDCARD,cia???.party
+
+#Domain-suffix,
+Domain-suffix,emby.wtf
+Domain-suffix,my.microsoftpersonalcontent.com
