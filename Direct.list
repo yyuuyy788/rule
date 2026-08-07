@@ -92,7 +92,7 @@ DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,139.com
-#DOMAIN-SUFFIX,cmecloud.cn
+DOMAIN-SUFFIX,cmecloud.cn
 
 #其他
 DOMAIN-SUFFIX,leijing1.com
@@ -122,6 +122,7 @@ IP-CIDR,10.10.1.34/32,no-resolve
 DOMAIN-SUFFIX,200036.xyz
 IP-CIDR,51.83.100.187/32,no-resolve
 DOMAIN-WILDCARD,*y.?yezi.xyz
+
 
 #弹幕
 DOMAIN,api.dandanplay.net
@@ -269,3 +270,4 @@ Domain-keyword,mhua
 Domain-keyword,hanman
 Domain-keyword,nnhm
 Domain-keyword,jjmh
+Domain-keyword,yusen
