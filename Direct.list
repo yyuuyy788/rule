@@ -123,6 +123,7 @@ DOMAIN-SUFFIX,200036.xyz
 IP-CIDR,51.83.100.187/32,no-resolve
 DOMAIN-WILDCARD,*y.?yezi.xyz
 Domain-keyword,yusen
+IP-CIDR,103.231.56.166/32,no-resolve
 
 
 #弹幕
