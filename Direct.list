@@ -127,7 +127,7 @@ IP-CIDR,10.10.1.34/32,no-resolve
 #em
 DOMAIN-SUFFIX,200036.xyz
 IP-CIDR,51.83.100.187/32,no-resolve
-DOMAIN-WILDCARD,*y.?yezi.xyz
+DOMAIN-suffix,bzy.lyezi.xyz
 Domain-keyword,yusen
 IP-CIDR,103.231.56.166/32,no-resolve
 
@@ -151,11 +151,8 @@ DOMAIN-KEYWORD,musicgateway
 DOMAIN-SUFFIX,lc.guoyue2010.top
 
 #微软
-Domain-KEYWORD,*.microsoft.com
-Domain-KEYWORD,*.live.com
-Domain-KEYWORD,*.windows.com
-Domain-KEYWORD,*.xboxlive.com
-Domain-KEYWORD,*.microsoftstore.com
+Domain-KEYWORD,microsoft
+Domain-KEYWORD,microsoftstore
 
 #瓜子影视
 Domain,images.67c6c7a.com
