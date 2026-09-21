@@ -112,7 +112,6 @@ DOMAIN-SUFFIX,pic3.yzzyimg.online
 DOMAIN-SUFFIX,img.ffzy888.com
 DOMAIN-SUFFIX,image.tmdb.org
 DOMAIN-KEYWORD,ipv6
-DOMAIN-KEYWORD,speedtest
 Domain-suffix,nty-speed.kbro.com.tw
 DOMAIN-SUFFIX,backloop.dev
 DOMAIN-SUFFIX,img.cartoon18.com
@@ -126,13 +125,18 @@ Domain-suffix,hinet.net
 Domain-suffix,seed.net.tw
 Domain-suffix,mapbox.com
 Domain-suffix,lottery-sports.com
-Domain-suffix,ipapi.is
-Domain-suffix,ipip.net
-Domain-suffix,ip.sb
-Domain-suffix,ipwho.is
-Domain-suffix,st.downdetectorapi.com
-Domain-suffix,census-app-x.scorecardresearch.com
 
+# Fast
+DOMAIN-SUFFIX,fast.com,Speedtest
+
+# Speedtest by Ookla
+USER-AGENT,SpeedTest*,Speedtest
+DOMAIN-KEYWORD,speedtest,Speedtest
+DOMAIN-SUFFIX,ooklaserver.net,Speedtest
+DOMAIN-SUFFIX,speed.dler.io,Speedtest
+
+# Speed Test by Cloudflare
+DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
 
 
 #em
